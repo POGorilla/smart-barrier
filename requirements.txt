@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pyzbar
+urllib3
+pillow
+qrcode[pil]
+python-telegram-bot
